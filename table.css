@@ -1,4 +1,7 @@
-.CSSTableGenerator {
+.CSSTableGenerator table.center{
+	 
+    margin-right:auto;
+}.CSSTableGenerator {
 	margin:0px;padding:0px;
 	width:100%;
 	box-shadow: 10px 10px 5px #888888;
@@ -19,6 +22,9 @@
 	-moz-border-radius-topleft:0px;
 	-webkit-border-top-left-radius:0px;
 	border-top-left-radius:0px;
+	
+	margin-left:25%;
+	margin-top: 5%;
 }.CSSTableGenerator table{
     border-collapse: collapse;
         border-spacing: 0;
