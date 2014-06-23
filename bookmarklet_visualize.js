@@ -1,6 +1,6 @@
 /*
  * ========================================================================
- * bookmarklet_iframe.js : v0.0.1
+ * bookmarklet_visualize.js : v0.0.1
  * 
  * ========================================================================
  * Copyright 2014 
@@ -26,7 +26,7 @@
  * javascript:(function(){if(window.myBookmarklet!==undefined){myBookmarklet();}else{document.body.appendChild(document.createElement('script')).src='http://localhost/~HomeBase/bookmarklets/bookmarklet_visualize.js?';}})();
  *
  * The report for this example can be found here
- * https://github.com/GeneArnold/Github-Reports/blob/master/product_details.jrxml
+ * https://github.com/GeneArnold/Github-Reports
  */
 
 (function(){

@@ -26,7 +26,7 @@
  * javascript:(function(){if(window.myBookmarklet!==undefined){myBookmarklet();}else{document.body.appendChild(document.createElement('script')).src='http://localhost/~HomeBase/bookmarklets/bookmarklet_iframe.js?';}})();
  *
  * The report for this example can be found here
- * https://github.com/GeneArnold/Github-Reports/blob/master/product_details.jrxml
+ * https://github.com/GeneArnold/Github-Reports
  */
 
 (function(){
