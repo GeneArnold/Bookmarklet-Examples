@@ -108,7 +108,7 @@
 		                }
 		            }, function (v) {
 		                var report = v.report({
-		                   resource: "/public/Samples/Reports/ProductDetails",
+		                   resource: "/public/Bookmarklet/ProductDetails",
 		                   container: "#report",
 		                   params: { "parProductId": [s.toString()] },
 		                   events:{
